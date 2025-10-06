@@ -1,0 +1,27 @@
+{
+    "name": "tpbot-my-ai-lens",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-PlanetX-AI": "github:jomihal/tpbot-my-ai-lens-1#064d72f523661817e3a172a34189e055e1a5ba0f",
+        "pxt-TPBot": "github:jomihal/tpbot-1a#84664f8c054247e0a27067cdddd193e2e10758ae"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
